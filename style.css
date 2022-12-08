@@ -1,0 +1,12 @@
+.collection {
+    margin: 0.5rem 0 2rem 0; 
+    border: 10px solid #a1860d;
+    border-radius: 50px;
+    overflow: hidden;
+    position: relative;
+    border-style: ridge;
+    background-color: rgb(255, 166, 0);
+    font-style: oblique;
+    align-content: space-around;
+    
+}
